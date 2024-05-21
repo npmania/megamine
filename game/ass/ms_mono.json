@@ -1,0 +1,66 @@
+[
+	{
+		"name": "cell1",
+		"rect": {"min": {"x": 14, "y": 296}, "max": {"x": 30, "y": 312}}
+	},
+	{
+		"name": "cell2",
+		"rect": {"min": {"x": 31, "y": 296}, "max": {"x": 47, "y": 312}}
+	},
+	{
+		"name": "cell3",
+		"rect": {"min": {"x": 48, "y": 296}, "max": {"x": 64, "y": 312}}
+	},
+	{
+		"name": "cell4",
+		"rect": {"min": {"x": 65, "y": 296}, "max": {"x": 81, "y": 312}}
+	},
+	{
+		"name": "cell5",
+		"rect": {"min": {"x": 82, "y": 296}, "max": {"x": 98, "y": 312}}
+	},
+	{
+		"name": "cell6",
+		"rect": {"min": {"x": 99, "y": 296}, "max": {"x": 115, "y": 312}}
+	},
+	{
+		"name": "cell7",
+		"rect": {"min": {"x": 116, "y": 296}, "max": {"x": 132, "y": 312}}
+	},
+	{
+		"name": "cell8",
+		"rect": {"min": {"x": 133, "y": 296}, "max": {"x": 149, "y": 312}}
+	},
+	{
+		"name": "unopened",
+		"rect": {"min": {"x": 14, "y": 279}, "max": {"x": 30, "y": 295}}
+	},
+	{
+		"name": "opened",
+		"rect": {"min": {"x": 31, "y": 279}, "max": {"x": 47, "y": 295}}
+	},
+	{
+		"name": "flagged",
+		"rect": {"min": {"x": 48, "y": 279}, "max": {"x": 64, "y": 295}}
+	},
+	{
+		"name": "guess",
+		"rect": {"min": {"x": 65, "y": 279}, "max": {"x": 81, "y": 295}}
+	},
+	{
+		"name": "openedguess",
+		"rect": {"min": {"x": 82, "y": 279}, "max": {"x": 98, "y": 295}}
+	},
+	{
+		"name": "openedmined",
+		"rect": {"min": {"x": 99, "y": 279}, "max": {"x": 115, "y": 295}}
+	},
+	{
+		"name": "openedexploded",
+		"rect": {"min": {"x": 116, "y": 279}, "max": {"x": 132, "y": 295}}
+	},
+	{
+		"name": "wrongflag",
+		"rect": {"min": {"x": 133, "y": 279}, "max": {"x": 149, "y": 295}}
+	}
+]

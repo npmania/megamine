@@ -1,0 +1,134 @@
+[
+	{
+		"name": "num0",
+		"rect": {"min": {"x": 0, "y": 0}, "max": {"x": 13, "y": 23}}
+	},
+	{
+		"name": "num1",
+		"rect": {"min": {"x": 13, "y": 0}, "max": {"x": 26, "y": 23}}
+	},
+	{
+		"name": "num2",
+		"rect": {"min": {"x": 26, "y": 0}, "max": {"x": 39, "y": 23}}
+	},
+	{
+		"name": "num3",
+		"rect": {"min": {"x": 39, "y": 0}, "max": {"x": 52, "y": 23}}
+	},
+	{
+		"name": "num4",
+		"rect": {"min": {"x": 52, "y": 0}, "max": {"x": 65, "y": 23}}
+	},
+	{
+		"name": "num5",
+		"rect": {"min": {"x": 65, "y": 0}, "max": {"x": 78, "y": 23}}
+	},
+	{
+		"name": "num6",
+		"rect": {"min": {"x": 78, "y": 0}, "max": {"x": 91, "y": 23}}
+	},
+	{
+		"name": "num7",
+		"rect": {"min": {"x": 91, "y": 0}, "max": {"x": 104, "y": 23}}
+	},
+	{
+		"name": "num8",
+		"rect": {"min": {"x": 104, "y": 0}, "max": {"x": 117, "y": 23}}
+	},
+	{
+		"name": "num9",
+		"rect": {"min": {"x": 117, "y": 0}, "max": {"x": 130, "y": 23}}
+	},
+	{
+		"name": "numhyphen",
+		"rect": {"min": {"x": 130, "y": 0}, "max": {"x": 143, "y": 23}}
+	},
+	{
+		"name": "numempty",
+		"rect": {"min": {"x": 143, "y": 0}, "max": {"x": 156, "y": 23}}
+	},
+	{
+		"name": "smile",
+		"rect": {"min": {"x": 0, "y": 23}, "max": {"x": 26, "y": 48}}
+	},
+	{
+		"name": "smilepress",
+		"rect": {"min": {"x": 26, "y": 23}, "max": {"x": 52, "y": 49}}
+	},
+	{
+		"name": "oops",
+		"rect": {"min": {"x": 52, "y": 23}, "max": {"x": 78, "y": 49}}
+	},
+	{
+		"name": "sunglass",
+		"rect": {"min": {"x": 78, "y": 23}, "max": {"x": 104, "y": 49}}
+	},
+	{
+		"name": "dead",
+		"rect": {"min": {"x": 104, "y": 23}, "max": {"x": 130, "y": 49}}
+	},
+	{
+		"name": "unopened",
+		"rect": {"min": {"x": 0, "y": 49}, "max": {"x": 16, "y": 65}}
+	},
+	{
+		"name": "opened",
+		"rect": {"min": {"x": 16, "y": 49}, "max": {"x": 32, "y": 65}}
+	},
+	{
+		"name": "flagged",
+		"rect": {"min": {"x": 32, "y": 49}, "max": {"x": 48, "y": 65}}
+	},
+	{
+		"name": "guess",
+		"rect": {"min": {"x": 48, "y": 49}, "max": {"x": 64, "y": 65}}
+	},
+	{
+		"name": "openedguess",
+		"rect": {"min": {"x": 64, "y": 49}, "max": {"x": 80, "y": 65}}
+	},
+	{
+		"name": "openedmined",
+		"rect": {"min": {"x": 80, "y": 49}, "max": {"x": 96, "y": 65}}
+	},
+	{
+		"name": "openedexploded",
+		"rect": {"min": {"x": 96, "y": 49}, "max": {"x": 112, "y": 65}}
+	},
+	{
+		"name": "wrongflag",
+		"rect": {"min": {"x": 112, "y": 49}, "max": {"x": 128, "y": 65}}
+	},
+	{
+		"name": "cell1",
+		"rect": {"min": {"x": 0, "y": 65}, "max": {"x": 16, "y": 81}}
+	},
+	{
+		"name": "cell2",
+		"rect": {"min": {"x": 16, "y": 65}, "max": {"x": 32, "y": 81}}
+	},
+	{
+		"name": "cell3",
+		"rect": {"min": {"x": 32, "y": 65}, "max": {"x": 48, "y": 81}}
+	},
+	{
+		"name": "cell4",
+		"rect": {"min": {"x": 48, "y": 65}, "max": {"x": 64, "y": 81}}
+	},
+	{
+		"name": "cell5",
+		"rect": {"min": {"x": 64, "y": 65}, "max": {"x": 80, "y": 81}}
+	},
+	{
+		"name": "cell6",
+		"rect": {"min": {"x": 80, "y": 65}, "max": {"x": 96, "y": 81}}
+	},
+	{
+		"name": "cell7",
+		"rect": {"min": {"x": 96, "y": 65}, "max": {"x": 112, "y": 81}}
+	},
+	{
+		"name": "cell8",
+		"rect": {"min": {"x": 112, "y": 65}, "max": {"x": 128, "y": 81}}
+	}
+]
